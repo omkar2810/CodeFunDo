@@ -13,7 +13,7 @@ A natural disaster always leads to tremendous chaos. This chaos makes it difficu
 
 In the case of a natural disaster in a city, we aim to liquidate this unused-vehicular-seat asset and get as many people as possible, in vehicles, to provide a boost to the number of people who are able to evacuate successfully.
 
-### How do we plan do it?
+### How do we plan to do it?
 
 - We plan on building a smartphone application to achieve this. The app operates in two modes - volunteer and SOS. The app will use SMS and low bandwidth internet(where possible) for communication.
 
