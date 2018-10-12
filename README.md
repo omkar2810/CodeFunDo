@@ -1,5 +1,5 @@
 # CodeFunDo
-Project Repo for TEAM NATURAL DISASTERS
+Project Repo for TEAM **NATURAL DISASTERS**
 
 ### Problem Statement
 
